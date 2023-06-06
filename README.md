@@ -41,6 +41,11 @@ Evaluate the model with the testing data using probability prediction(uninfected
 ### STEP-9:
 Fit the model and predict the sample input.
 
+
+## Network model
+
+![network_model](3.png)
+
 ## PROGRAM
 
 ### Import required libraries
