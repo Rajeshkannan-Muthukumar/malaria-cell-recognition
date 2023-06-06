@@ -234,7 +234,7 @@ plt.show()
 
 ### New Sample Data Prediction
 
-![New Sample Data Prediction](3.png)
+![sample](s.png)
 
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
